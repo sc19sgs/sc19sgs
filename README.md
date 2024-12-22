@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Sina! 
 
-<!--
-**sc19sgs/sc19sgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **About Me**  
+- **First-Class Master’s** graduate in **Computer Science with Artificial Intelligence** from the **University of Leeds**.
+  
+- Experienced in projects spanning **financial markets**, **healthcare**, and **customer insights**.
+  
+- Applied **machine learning** and **software development** to create full-stack, user-friendly applications.
+  
+- Skilled in leveraging tools like **Figma** and **video editing software** to design engaging wireframes, graphic assets, and presentations.
+  
+- Passionate about effectively communicating ideas and creating impactful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projects**  
+1. **[Urine Dipstick Analysis App](https://gitlab.com/comp3931-final-project/phoenixapp/-/wikis/Guides/How-to-Run-Urine-Dipstick-Analysis-App):**  
+   - Built an Android app in **Java** to analyse Urine Dipstick Tests using **TensorFlow** and **OpenCV** for AI-driven image classification.  
+
+2. **[Generating Synthetic Limit Order Book Data](https://github.com/sc19sgs/Generating-Synthetic-Limit-Order-Book-Data):**  
+   - Developed synthetic financial datasets using **Generative Adversarial Networks (GANs)** in **PyTorch**.  
+   - Integrated the final Generator model into a **C++ trading platform**.  
+
+3. **[Loan Application Predictor](https://github.com/sc19sgs/Loan_Prediction):**  
+   - Analysed Kaggle’s Loan Application dataset using **Logistic Regression**, **KNN**, and **Random Forest** to predict loan approvals.  
+
+---
+
+💻 **Skills**  
+- **Languages:** Python (**Most Proficient**), C++, Java, SQL  
+- **Libraries/Tools:** TensorFlow, PyTorch, Keras, OpenCV, SciKit-Learn, Weights & Biases, Beautiful Soup, Pandas, NumPy  
+- **Other Tools:** Git, Figma, Android Studio  
+- **Languages:** Bilingual (English & Farsi)  
+---
+
+🏃  **Hobbies**  
+Outside of work and study, I enjoy:  
+- Playing the **piano** 🎵  
+- Playing **basketball** and **football** 🏀 ⚽  
+- Learning **Japanese** 🇯🇵  
+
+---
+
+📈 **GitHub**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sc19sgs&layout=compact&theme=radical)  
+
+---
+
+📩 **Get in Touch**  
+- **Email:** [sina3@live.co.uk](mailto:sina3@live.co.uk)  
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/sina-ghanbari-saheli-0ba232171/)  
+- **Portfolio:** [Portfolio](https://sina-gs.netlify.app/)  
+
