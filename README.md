@@ -40,11 +40,6 @@ Outside of work and study, I enjoy:
 
 ---
 
-📈 **GitHub**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sc19sgs&layout=compact&theme=radical)  
-
----
-
 📩 **Get in Touch**  
 - **Email:** [sina3@live.co.uk](mailto:sina3@live.co.uk)  
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/sina-ghanbari-saheli-0ba232171/)  
