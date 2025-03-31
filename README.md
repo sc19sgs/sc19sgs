@@ -3,7 +3,7 @@
 🎓 **About Me**  
 - **First-Class Master’s** graduate in **Computer Science with Artificial Intelligence** from the **University of Leeds**.
 
-- Currently completing a 6 month **AI Internship** at a specialist consultant company, helping to refine their AI tool
+- Currently completing a 6 month **AI Internship** at a specialist consultant company, helping to test & refine their AI tool
   
 - Experienced in projects spanning **financial markets**, **healthcare**, and **customer insights**.
   
