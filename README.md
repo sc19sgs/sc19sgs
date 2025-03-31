@@ -23,13 +23,10 @@
    - Developed synthetic financial datasets using **Generative Adversarial Networks (GANs)** in **PyTorch**.  
    - Integrated the final Generator model into a **C++ trading platform**.  
 
-3. **[Loan Application Predictor](https://github.com/sc19sgs/Loan_Prediction):**  
-   - Analysed Kaggle’s Loan Application dataset using **Logistic Regression**, **KNN**, and **Random Forest** to predict loan approvals.  
-
 ---
 
 💻 **Skills**  
-- **Languages:** Python (**Most Proficient**), C++, Java, SQL  
+- **Languages:** Python (**Most Proficient**), Java
 - **Libraries/Tools:** TensorFlow, PyTorch, Keras, OpenCV, SciKit-Learn, Weights & Biases, Beautiful Soup, Pandas, NumPy  
 - **Other Tools:** Git, Figma, Android Studio  
 - **Languages:** Bilingual (English & Farsi)  
